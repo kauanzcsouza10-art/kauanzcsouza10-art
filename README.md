@@ -62,7 +62,7 @@ Busco constantemente **novos desafios que alavanquem resultados e promovam inova
 ---
 
 ## 📫 Contato
-📧 **E-mail:** seuemail@exemplo.com  
+📧 **E-mail:** kauanzcsouza10@exemplo.com  
 🔗 **LinkedIn:** [Kauan Ziviani Souza](https://linkedin.com/in/kauan-souza-9247aa377)
 
 ---
