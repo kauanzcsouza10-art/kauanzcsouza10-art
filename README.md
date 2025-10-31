@@ -52,21 +52,6 @@ Busco constantemente **novos desafios que alavanquem resultados e promovam inova
 
 ---
 
-## 📊 Projetos em Desenvolvimento
-| Projeto | Descrição | Ferramentas |
-|----------|------------|-------------|
-| [Controle de Materiais Rotativos](link-do-repo) | Sistema de registro e rastreamento de materiais entre campo e almoxarifado, garantindo visibilidade e eficiência operacional. | Excel, Python |
-| [Painel de Indicadores Logísticos](link-do-repo) | Dashboard interativo para monitorar volumes, reposições e desempenho logístico, apoiando decisões estratégicas. | Power BI |
-| [Gestão de Pedidos e Uniformes](link-do-repo) | Automação de requisições e controle de entregas de uniformes corporativos, otimizando tempo e recursos. | Excel, VBA |
-
----
-
-## 📈 Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=default)  
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=default)
-
----
-
 ## 🚀 Competências e Mentalidade Profissional
 - Sede por **conhecimento contínuo e crescimento constante** 📖  
 - Mentalidade **analítica e estratégica** 💡  
