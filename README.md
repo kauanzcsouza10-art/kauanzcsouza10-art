@@ -31,8 +31,8 @@ Busco constantemente **novos desafios que alavanquem resultados e promovam inova
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 **Progresso de habilidades:**  
-- Python 🐍: ██████████ 80%  
-- Power BI 📊: █████████ 70%  
+- Python 🐍: ███ 20%  
+- Power BI 📊: ████ 20%  
 - Excel 💻: ██████████ 85%  
 - Jira 📈: ████████ 60%  
 
