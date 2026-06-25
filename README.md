@@ -10,17 +10,14 @@ Atualmente, aplico conceitos adquiridos ao longo da minha formação acadêmica 
 
 ## 🚀 Minha Filosofia
 
-Acredito que crescimento não acontece por acaso.
+Não acredito em crescimento por acaso.
 
-Ele é resultado da combinação entre:
+Acredito em evolução construída. Cada conhecimento adquirido, cada desafio enfrentado e cada projeto desenvolvido representam um passo em direção a algo maior.
 
-* Disciplina para executar;
-* Conhecimento para evoluir;
-* Tecnologia para potencializar resultados;
-* Mentalidade de melhoria contínua.
+Minha jornada é guiada pela busca constante por aprendizado, eficiência e inovação. Seja na logística, na tecnologia ou na gestão de processos, procuro transformar conhecimento em ação e desafios em oportunidades de crescimento.
 
-Essa visão deu origem à Kaizen, iniciativa voltada ao desenvolvimento de soluções, projetos e sistemas que transformam desafios em oportunidades de evolução. 
----
+Essa visão se tornou a base da Kaizen, uma iniciativa que representa meu compromisso com a melhoria contínua, a criação de soluções inteligentes e a construção de um legado baseado em evolução, disciplina e resultados.
+
 
 ## 🧩 Áreas de Atuação
 
