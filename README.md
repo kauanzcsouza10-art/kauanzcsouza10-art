@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Kauan Ziviani Souza
+# 👋 Olá, eu sou Kauan Souza
 
 Construo sistemas, processos e soluções voltadas para evolução contínua.
 
