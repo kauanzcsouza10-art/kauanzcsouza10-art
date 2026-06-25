@@ -19,6 +19,7 @@ Minha jornada é guiada pela busca constante por aprendizado, eficiência e inov
 Essa visão se tornou a base da Kaizen, uma iniciativa que representa meu compromisso com a melhoria contínua, a criação de soluções inteligentes e a construção de um legado baseado em evolução, disciplina e resultados.
 
 
+
 ## 🧩 Áreas de Atuação
 
 * Logística e Gestão Operacional
