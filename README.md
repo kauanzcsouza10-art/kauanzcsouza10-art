@@ -1,86 +1,77 @@
 # 👋 Olá, eu sou Kauan Ziviani Souza
 
-📦 Profissional dedicado na área de **Logística e Almoxarifado**, com experiência em **gestão de materiais, controle de estoque e otimização de processos operacionais**.  
-Este espaço é um registro do meu compromisso com a **aprendizagem contínua**, **inovação em processos** e **crescimento profissional**, documentando estudos, práticas e projetos aplicados à logística corporativa.  
+Construo sistemas, processos e soluções voltadas para evolução contínua.
 
-💡 **Sede por conhecimento | Ambição por crescimento | Foco em resultados**
+Minha trajetória começou na área operacional, onde aprendi que eficiência não depende apenas de esforço, mas da capacidade de transformar conhecimento em resultados. Desde então, venho desenvolvendo habilidades em logística, análise de dados, automação de processos e gestão operacional, sempre buscando formas de simplificar problemas complexos e criar soluções práticas.
 
----
-
-## 🎯 Objetivo Profissional
-Impulsionar minha carreira na área de **logística corporativa**, utilizando **metodologias modernas** e **ferramentas digitais** para maximizar eficiência, aprimorar processos e contribuir para o crescimento estratégico das organizações.  
-Busco constantemente **novos desafios que alavanquem resultados e promovam inovação**. 🚀
+Atualmente, aplico conceitos adquiridos ao longo da minha formação acadêmica e experiência profissional em projetos que unem tecnologia, organização e melhoria contínua.
 
 ---
 
-## 🧩 Áreas de Interesse e Estudo
-- 📦 Gestão de Estoques e Suprimentos  
-- 🚚 Logística Integrada e Distribuição  
-- 🤖 Automação de Processos (Excel, Python)  
-- 📊 Power BI e Visualização de Dados  
-- 🔄 Melhoria Contínua e Eficiência Operacional  
-- 📋 Controle de Almoxarifado e Patrimônio  
-- 💡 Desenvolvimento de habilidades estratégicas e analíticas  
+## 🚀 Minha Filosofia
+
+Acredito que crescimento não acontece por acaso.
+
+Ele é resultado da combinação entre:
+
+* Disciplina para executar;
+* Conhecimento para evoluir;
+* Tecnologia para potencializar resultados;
+* Mentalidade de melhoria contínua.
+
+Essa visão deu origem à **Kaizen**, iniciativa voltada ao desenvolvimento de soluções, projetos e sistemas que transformam desafios em oportunidades de evolução.
 
 ---
 
-## 🛠 Ferramentas e Plataformas
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C80F?style=for-the-badge&logo=power-bi&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+## 🧩 Áreas de Atuação
 
-**Progresso de habilidades:**  
-- Python 🐍: ███ 20%  
-- Power BI 📊: ████ 20%  
-- Excel 💻: ██████████ 85%  
-- Jira 📈: ████████ 60%  
-
----
-
-## 📚 Metodologias Aprendidas e Aplicadas
-- ⚡ **Metodologia Ágil (Scrum/Kanban)**  
-- 📌 **5W2H** para planejamento e tomada de decisão  
-- 📅 **Cronograma de Gantt** para gestão de projetos e acompanhamento estratégico  
+* Logística e Gestão Operacional
+* Controle de Estoques e Almoxarifado
+* Automação de Processos
+* Análise e Visualização de Dados
+* Power BI e Business Intelligence
+* Desenvolvimento com Python
+* Gestão de Projetos e Metodologias Ágeis
+* Melhoria Contínua e Eficiência Operacional
 
 ---
 
-## 🏆 Conquistas e Certificações
-- Certificação em **Excel Avançado** (Curso Online XYZ)  
-- Curso de **Power BI para Análise de Dados** (Plataforma ABC)  
-- Treinamento em **Gestão de Estoques e Almoxarifado** (Instituto Logístico)  
+## 🛠 Tecnologias e Ferramentas
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C80F?style=for-the-badge\&logo=power-bi\&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoft-excel\&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge\&logo=jira\&logoColor=white)
 
 ---
 
-## 🚀 Competências e Mentalidade Profissional
-- Sede por **conhecimento contínuo e crescimento constante** 📖  
-- Mentalidade **analítica e estratégica** 💡  
-- Foco em **resultados e eficiência operacional** 🏆  
-- Paixão por **inovação e soluções práticas** 🤝  
-- Determinação em **transformar desafios em oportunidades** 🔥  
+## 📂 Projetos em Destaque
+
+🔹 Kaizen Operational Center
+Sistema voltado à centralização de operações, indicadores e processos.
+
+🔹 ARKHON
+Projeto focado em evolução pessoal e profissional através de uma abordagem inspirada em sistemas de progressão.
+
+🔹 SafeFlow
+Plataforma desenvolvida para organização, controle e melhoria de fluxos operacionais.
 
 ---
 
-## 📫 Contato
-📧 **E-mail:** kauanzcsouza10@exemplo.com  
-🔗 **LinkedIn:** [Kauan Ziviani Souza](https://linkedin.com/in/kauan-souza-9247aa377)
+## 📈 Atualmente Estudando
+
+* Python para automação e desenvolvimento
+* Business Intelligence
+* Engenharia de Processos
+* Gestão Estratégica
+* Arquitetura de Sistemas
 
 ---
 
-> *"A eficiência logística é resultado da combinação entre planejamento, disciplina e tecnologia. Aprender constantemente e aplicar o conhecimento é o caminho para a excelência profissional."*  
-> — Kauan Ziviani Souza
+## 📫 Conecte-se Comigo
 
-<!--
-**kauanzcsouza10-art/kauanzcsouza10-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+LinkedIn: [www.linkedin.com/in/kauan-souza-9247aa377](http://www.linkedin.com/in/kauan-souza-9247aa377)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> "A evolução não acontece em um único salto. Ela é construída diariamente através de pequenas melhorias que, ao longo do tempo, produzem resultados extraordinários."
