@@ -19,7 +19,7 @@ Ele é resultado da combinação entre:
 * Tecnologia para potencializar resultados;
 * Mentalidade de melhoria contínua.
 
-Movido por essa filosofia, fundei a Kaizen, uma iniciativa voltada ao desenvolvimento de sistemas, processos e soluções que promovem evolução contínua através da tecnologia, organização e inovação
+Movido por esse filosofia, fundei a **KAIZEN*, uma iniciativa voltada ao desenvolvimento de sistemas processos e soluções que promovem evolução continua através da tecnologia, organização e inovação 
 ---
 
 ## 🧩 Áreas de Atuação
